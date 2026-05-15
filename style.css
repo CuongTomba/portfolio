@@ -441,6 +441,7 @@ header ul {
 
 footer {
     width: 100%;
+    margin-top: auto;
     text-align: center ;
     font-size: 14px;
     background-color: #fafafa;
@@ -467,6 +468,18 @@ footer ul {
 footer ul li img {
     height: 20px;
     width: auto;
+}
+
+.policy {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+}
+
+.policy a {
+    font-size: 13px;
 }
 
 .Lingua {
