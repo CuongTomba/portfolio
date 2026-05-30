@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cuongtomba.github.io/portfolio/sitemap.xml
+Sitemap: https://cuongtomba.github.io/portfolio/image-sitemap.xml
